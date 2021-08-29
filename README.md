@@ -1,4 +1,4 @@
-# PROA-Algoritmos - Lógica de programação
+# Lógica de programação
 Desafios realizados com o intuito de entender e aplicar a lógica de programação de forma prática. 
 
 ## Onde foi utilizado
